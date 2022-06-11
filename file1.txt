@@ -1,3 +1,12 @@
 This is the first file on the folde
 this is my second file
+<<<<<<< HEAD
 This is a different vode  on the master branch
+=======
+<<<<<<< HEAD
+This code is added from the master branch
+this code is is added from the dev branch
+=======
+This is a different vode  on the master branch
+>>>>>>> master
+>>>>>>> qa

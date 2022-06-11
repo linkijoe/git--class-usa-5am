@@ -1,3 +1,5 @@
 this is a code file
 This is the line added in the  master branch
-It should resolve the conflict
+This is the code file
+This is a code added in the QA branch
+
